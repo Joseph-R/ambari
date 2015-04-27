@@ -1,13 +1,12 @@
-ambari Cookbook
+Ambari Cookbook
 ===============
 
-This cookbook installs Ambari-server and Ambari-agent in order to provision a cluster with the HDP distribution using the Blueprint API.
+This cookbook installs Ambari-server and Ambari-agent in order to provision a cluster with the HDP distribution using the Blueprint API.  Currently supports Ambari 2.0
 
 Requirements
 ------------
 Supporting (or trying to support) the versions Ambari is supporting.
 
-- RHEL, CentOS, and Oracle Linux 5
 - RHEL, CentOS, and Oracle Linux 6
 - Suse 11
 - Ubuntu 12.04
